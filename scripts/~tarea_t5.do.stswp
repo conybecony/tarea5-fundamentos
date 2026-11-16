@@ -146,7 +146,8 @@ log close
 * $42.019 en el ingreso en m1 y de $42.246 en m2, reflejando una relación
 * positiva. Al incorporar el género en m2, el r2 aumenta en 0.017, pero no se 
 * puede afirmar una mejora del modelo. Las regresiones por sector son poco 
-* precisas debido al bajo tamaño muestral, teniendo con más personas Servicios * (15) y con menor personas Construcción (5), la principal limitación es el 
+* precisas debido al bajo tamaño muestral, teniendo con más personas Servicios 
+* (15) y con menor personas Construcción (5), la principal limitación es el 
 * reducido tamaño muestral (n=60).
 
 
