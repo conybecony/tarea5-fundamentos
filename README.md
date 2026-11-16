@@ -41,4 +41,4 @@ Constanza Pinilla — Noviembre 2026
 y para ver las funciones label.
 - Qué hice yo: Busqué las funciones pedidas en los guiones de clases, interprete 
 resultados y verifique que todo funcionara bien.
-- Verificación: confirmo que entiendo y puedo explicar todo lo que entrego.
+- Verificación: Confirmo que entiendo y puedo explicar todo lo que entrego.
